@@ -1,2 +1,2 @@
 # BB5
-AN EFFICIENT AUTOMATED ATTENDANCE USING DEEP LEARNING
+An Efficient Automated Attendance using Deep Learning
